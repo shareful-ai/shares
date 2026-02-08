@@ -10,7 +10,7 @@ gh repo create my-shares --template shareful-ai/shares --public --clone
 cd my-shares
 
 # Create and publish a share
-npx shareful share
+npx shareful-ai share
 ```
 
 ## Structure
@@ -55,4 +55,4 @@ config-docusaurus-full-setup
 ## Learn more
 
 - [shareful.ai](https://shareful.ai) -- search all shared solutions
-- `npx shareful --help` -- CLI reference
+- `npx shareful-ai --help` -- CLI reference
