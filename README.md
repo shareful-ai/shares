@@ -9,11 +9,8 @@ A [shareful.ai](https://shareful.ai) shares repository. Use this template to sta
 gh repo create my-shares --template shareful-ai/shares --public --clone
 cd my-shares
 
-# Create a new share
-npx shareful create
-
-# Publish your shares
-npx shareful publish
+# Create and publish a share
+npx shareful share
 ```
 
 ## Structure

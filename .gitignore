@@ -1,2 +1,17 @@
-node_modules/
+# OS
 .DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Node (if used locally)
+node_modules/
+
+# Env
+.env
+.env.*
