@@ -35,8 +35,8 @@ Every SHARE.md must have:
 ## Commands
 
 ```bash
-npx shareful-ai share          # Create, validate, commit, push, and index
-npx shareful-ai find <query>   # Search shareful.ai for solutions
+npx shareful-ai create         # Create, validate, commit, push, and index
+npx shareful-ai search <query> # Search shareful.ai for solutions
 ```
 
 ## Code style

@@ -10,7 +10,7 @@ gh repo create my-shares --template shareful-ai/shares --public --clone
 cd my-shares
 
 # Create and publish a share
-npx shareful-ai share
+npx shareful-ai create
 ```
 
 ## Structure
